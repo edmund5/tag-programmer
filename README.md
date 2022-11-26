@@ -41,7 +41,3 @@ USAGE
 - To remove selected item in the lists, Right-click and select 'Remove'
 - Check Scrolling Lists to auto scroll Read Tag(s) and Write Tag(s) lists.
 - Check System Beep to Emits a tone from the built-in PC speaker.
-
-### Programming language used in this project:
-
-- Delphi 7 / Pascal
