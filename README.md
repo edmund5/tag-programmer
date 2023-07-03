@@ -2,7 +2,7 @@
 UHF RFID Tag Programmer
 
 
-![Screenshot](https://www.edmundcinco.com/projects/tagprogrammer/screenshot.png)
+![image](https://github.com/edmund5/tag-programmer/assets/299803/ee783330-e13f-40d6-95cf-ab4e58c45c36)
 
 
 SYSTEM REQUIREMENTS
